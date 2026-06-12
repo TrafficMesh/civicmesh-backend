@@ -1,0 +1,4 @@
+* @TrafficMesh/backend-team
+backend/api/* @TrafficMesh/backend-team
+backend/models/* @TrafficMesh/backend-team
+backend/database/* @TrafficMesh/backend-team
